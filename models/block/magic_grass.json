@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "up": "magic:block/magic_grass_top",
+    "down": "magic:block/magic_grass_bottom",
+    "north": "magic:block/magic_grass_side",
+    "south": "magic:block/magic_grass_side",
+    "east": "magic:block/magic_grass_side",
+    "west": "magic:block/magic_grass_side",
+    "particle": "magic:block/magic_grass_side"
+  }
+}
